@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/splash">
+        <file>mssplash.png</file>
+    </qresource>
+    <qresource prefix="/icon">
+        <file>COAST_logo.png</file>
+        <file>COAST_logo-02.png</file>
+        <file>ECO_v4_view.png</file>
+        <file>playbutton.png</file>
+        <file>stopbutton.png</file>
+        <file>settingbutton-02.png</file>
+    </qresource>
+</RCC>
